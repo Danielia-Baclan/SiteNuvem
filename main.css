@@ -1,0 +1,31 @@
+body {
+    font-family: helvetica;
+  }
+  
+  ul {
+    font-family: monospace;
+  }
+
+li {
+  list-style: circle;
+}
+
+h1 {
+    color: darkmagenta;
+    font-style: italic; 
+}
+
+button {
+    background-color: #B7E4CF;
+}
+
+.list {
+  list-style: square;
+  font-size: 14px;
+}
+
+#date {
+  font-size: 12px;
+  font-style: italic;
+  font-weight: bold;
+}
